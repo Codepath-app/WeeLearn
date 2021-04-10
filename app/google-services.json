@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "117953877222",
+    "project_id": "wee-learn",
+    "storage_bucket": "wee-learn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117953877222:android:66298c31d879e55c595727",
+        "android_client_info": {
+          "package_name": "com.wee.learn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117953877222-60u2sbh54h638n8nbavvis65mf22p1al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzD7V0FnxUwl52-2HULuBslw7Sqrq33vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117953877222-60u2sbh54h638n8nbavvis65mf22p1al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
